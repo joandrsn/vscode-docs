@@ -103,6 +103,7 @@ Shell Script (Bash) | `shellscript`
 SQL | `sql`
 Swift | `swift`
 TypeScript | `typescript`
+Text | `plaintext`
 TeX | `tex`
 Visual Basic | `vb`
 XML | `xml`
